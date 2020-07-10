@@ -3,7 +3,7 @@
 </p>  
 <br/>
 <p align="center">
-<img src="images/banner.jpg">
+<img src="https://github.com/dialoguewise/dialoguewise/blob/master/images/banner.jpg">
 </p>  
 <br/>
 
