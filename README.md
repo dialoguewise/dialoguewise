@@ -1,8 +1,4 @@
 <p align="center">
-<a href="https://dialoguewise.com" target="_blank"><img src="https://github.com/dialoguewise/dialoguewise/blob/master/images/logo.png?raw=true"></a>
-</p>  
-<br/>
-<p align="center">
 <img src="https://github.com/dialoguewise/dialoguewise/blob/master/images/banner.jpg">
 </p>  
 <br/>
